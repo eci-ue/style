@@ -1,7 +1,7 @@
 {
   "name": "@ue/style",
   "private": false,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "commonjs",
   "types": "types/index.d.ts",
   "license": "MIT",
@@ -22,19 +22,23 @@
     "url": "git+https://github.com/eci-ue/style.git"
   },
   "dependencies": {
-    "postcss": "^8.4.19",
+    "@tailwindcss/nesting": "0.0.0-insiders.565cd3e",
+    "postcss": "^8.4.21",
     "postcss-import": "^15.0.1",
-    "windicss": "^3.5.6",
     "tailwindcss": "^3.2.4",
-    "vite-plugin-windicss": "^1.8.10"
+    "vite-plugin-windicss": "^1.8.10",
+    "windicss": "^3.5.6",
+    "autoprefixer": "^10.4.13"
   },
   "devDependencies": {
+    "vite": "^4.1.4"
   },
   "files": [
     "src/",
     "style/",
     "LICENSE",
     "README.md",
-    "package.json"
+    "package.json",
+    "postcss.config.cjs"
   ]
 }
