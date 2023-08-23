@@ -27,7 +27,7 @@ const create = function(key, color) {
   const out = fs.createWriteStream(src);
   const stream = canvas.createPNGStream();
   stream.pipe(out);
-  return `https://github.com/eci-ue/style/doc/image/${name}`;
+  return `./doc/image/${name}`;
   // return new Promise(function(resolve, reject) {
   //   stream.pipe(out);
   //   out.on('finish', () => {
