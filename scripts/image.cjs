@@ -23,7 +23,7 @@ const toDataURL = function(color) {
 const create = function(key, color) {
   const canvas = image(color);
   const name = `${key}.png`;
-  const src = path.join("../doc/image", name);
+  const src = path.join(__dirname, "../doc/image", name);
   const out = fs.createWriteStream(src);
   const stream = canvas.createPNGStream();
   stream.pipe(out);

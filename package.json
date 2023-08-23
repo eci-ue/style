@@ -1,14 +1,14 @@
 {
   "name": "@ue/style",
   "private": false,
-  "version": "0.1.3",
+  "version": "0.1.4",
   "type": "commonjs",
   "types": "types/index.d.ts",
   "license": "MIT",
   "main": "src/index.cjs",
   "scripts": {
     "test": "node test/index.cjs",
-    "build": ""
+    "build": "node scripts/docs.cjs"
   },
   "keywords": [],
   "author": {
