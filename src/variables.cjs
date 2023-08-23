@@ -9,7 +9,7 @@ const path = require("path");
 const variables = function(src, common = {}) {
   const map = Object.assign({}, common || {});
   const normalize = path.posix.normalize(src);
-  const dir = path.isAbsolute(src) ? normalize : path.posix.join(__dirname, "..", normalize);
+  const dir = path.isAbsolute(src) ? normalize : path.resolve(__dirname, "..", normalize);
   const text = fs.readFileSync(dir, "utf-8");
 
   text.split("\n").forEach(function(row) {
