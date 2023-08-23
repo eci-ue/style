@@ -5,6 +5,8 @@
 .npmrc
 .npmignore
 test
+doc
+scripts
 node_modules
 pnpm-lock.yaml
 yarn.lock
