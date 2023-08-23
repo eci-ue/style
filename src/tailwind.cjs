@@ -26,21 +26,28 @@ const calc = function(length = 100, fontSize = 16) {
   return spacing;
 }
 
+const opacity = function() {
+  const value = {};
+  for(let i = 0; i <= 100; i++) {
+    const key = String(i);
+    value[key] = String(i / 100);
+  }
+  return value;
+}
+
 const tailWind = function(colors = {}, fontSize = 16, len = 100) {
   const spacing = calc(len, fontSize);
   const width = Object.assign({ fit: "fit-content" }, spacing);
   return { 
     spacing, 
-    
+    opacity: opacity(),
     height: spacing, 
     minHeight: spacing,
     maxHeight: spacing,
     lineHeight: spacing,
-
     width, 
     minWidth: width,
     maxWidth: width,
-    
     colors,
     screens: container
   };
