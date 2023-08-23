@@ -1,48 +1,48 @@
-名称 | 色值
--- | --
-white | #ffffff
-primary | #3c6cfe
-primary-200 | #F2F9FE
-primary-500 | #7BD2F8
-primary-light | #F0F2F7
-info-color | #3c6cfe
-success-color | #52c41a
-success-hover | #87c971
-success-active | #40cb05
-processing-color | #3c6cfe
-error-color | #FC4B3B
-highlight-color | #FC4B3B
-milk | #fafafc
-white-85p | rgba(255,255,255,0.85)
-white-45p | rgba(255,255,255,0.45)
-black | #262626
-black-light | #6B798E
-shadow-black-light | rgba(107,121,142,0.85)
-lighter-gray | #dcdee7
-gray | #EAECF4
-deep-gray | #818d9f
-text-gray | #949EAD
-text-black | #262626
-navy-blue | #2C3959
-deep-navy-blue | #25304b
-light-navy-blue | #3D4966
-deep-blue | #45568a
-lavender | #6a8fff
-border-color | #e1e6f0
-bg-color | #f6f6fb
-bg-warning-color | #FFFAEF
-bg-gray | #fafafa
-normal-color | #d9d9d9
-warning-color | #FFA724
-primary-color | #3c6cfe
-shadow-color | rgba(182,188,224,0.45)
-menu-dark-item-active-bg | #3D4966
-error | #FF4D4F
-error-200 | #FFF0F0
-error-500 | #FF8384
-progress | #FAAD14
-progress-200 | #FFF9EC
-progress-500 | #FFBE3D
-pending | #FAAD14
-pending-200 | #FFF9EC
-pending-500 | #FFBE3D
+名称 | 色值 | 预览
+-- | -- | --
+white | #ffffff | ![#ffffff](https://github.com/eci-ue/style/doc/image/white.png)
+primary | #3c6cfe | ![#3c6cfe](https://github.com/eci-ue/style/doc/image/primary.png)
+primary-200 | #F2F9FE | ![#F2F9FE](https://github.com/eci-ue/style/doc/image/primary-200.png)
+primary-500 | #7BD2F8 | ![#7BD2F8](https://github.com/eci-ue/style/doc/image/primary-500.png)
+primary-light | #F0F2F7 | ![#F0F2F7](https://github.com/eci-ue/style/doc/image/primary-light.png)
+info-color | #3c6cfe | ![#3c6cfe](https://github.com/eci-ue/style/doc/image/info-color.png)
+success-color | #52c41a | ![#52c41a](https://github.com/eci-ue/style/doc/image/success-color.png)
+success-hover | #87c971 | ![#87c971](https://github.com/eci-ue/style/doc/image/success-hover.png)
+success-active | #40cb05 | ![#40cb05](https://github.com/eci-ue/style/doc/image/success-active.png)
+processing-color | #3c6cfe | ![#3c6cfe](https://github.com/eci-ue/style/doc/image/processing-color.png)
+error-color | #FC4B3B | ![#FC4B3B](https://github.com/eci-ue/style/doc/image/error-color.png)
+highlight-color | #FC4B3B | ![#FC4B3B](https://github.com/eci-ue/style/doc/image/highlight-color.png)
+milk | #fafafc | ![#fafafc](https://github.com/eci-ue/style/doc/image/milk.png)
+white-85p | rgba(255,255,255,0.85) | ![rgba(255,255,255,0.85)](https://github.com/eci-ue/style/doc/image/white-85p.png)
+white-45p | rgba(255,255,255,0.45) | ![rgba(255,255,255,0.45)](https://github.com/eci-ue/style/doc/image/white-45p.png)
+black | #262626 | ![#262626](https://github.com/eci-ue/style/doc/image/black.png)
+black-light | #6B798E | ![#6B798E](https://github.com/eci-ue/style/doc/image/black-light.png)
+shadow-black-light | rgba(107,121,142,0.85) | ![rgba(107,121,142,0.85)](https://github.com/eci-ue/style/doc/image/shadow-black-light.png)
+lighter-gray | #dcdee7 | ![#dcdee7](https://github.com/eci-ue/style/doc/image/lighter-gray.png)
+gray | #EAECF4 | ![#EAECF4](https://github.com/eci-ue/style/doc/image/gray.png)
+deep-gray | #818d9f | ![#818d9f](https://github.com/eci-ue/style/doc/image/deep-gray.png)
+text-gray | #949EAD | ![#949EAD](https://github.com/eci-ue/style/doc/image/text-gray.png)
+text-black | #262626 | ![#262626](https://github.com/eci-ue/style/doc/image/text-black.png)
+navy-blue | #2C3959 | ![#2C3959](https://github.com/eci-ue/style/doc/image/navy-blue.png)
+deep-navy-blue | #25304b | ![#25304b](https://github.com/eci-ue/style/doc/image/deep-navy-blue.png)
+light-navy-blue | #3D4966 | ![#3D4966](https://github.com/eci-ue/style/doc/image/light-navy-blue.png)
+deep-blue | #45568a | ![#45568a](https://github.com/eci-ue/style/doc/image/deep-blue.png)
+lavender | #6a8fff | ![#6a8fff](https://github.com/eci-ue/style/doc/image/lavender.png)
+border-color | #e1e6f0 | ![#e1e6f0](https://github.com/eci-ue/style/doc/image/border-color.png)
+bg-color | #f6f6fb | ![#f6f6fb](https://github.com/eci-ue/style/doc/image/bg-color.png)
+bg-warning-color | #FFFAEF | ![#FFFAEF](https://github.com/eci-ue/style/doc/image/bg-warning-color.png)
+bg-gray | #fafafa | ![#fafafa](https://github.com/eci-ue/style/doc/image/bg-gray.png)
+normal-color | #d9d9d9 | ![#d9d9d9](https://github.com/eci-ue/style/doc/image/normal-color.png)
+warning-color | #FFA724 | ![#FFA724](https://github.com/eci-ue/style/doc/image/warning-color.png)
+primary-color | #3c6cfe | ![#3c6cfe](https://github.com/eci-ue/style/doc/image/primary-color.png)
+shadow-color | rgba(182,188,224,0.45) | ![rgba(182,188,224,0.45)](https://github.com/eci-ue/style/doc/image/shadow-color.png)
+menu-dark-item-active-bg | #3D4966 | ![#3D4966](https://github.com/eci-ue/style/doc/image/menu-dark-item-active-bg.png)
+error | #FF4D4F | ![#FF4D4F](https://github.com/eci-ue/style/doc/image/error.png)
+error-200 | #FFF0F0 | ![#FFF0F0](https://github.com/eci-ue/style/doc/image/error-200.png)
+error-500 | #FF8384 | ![#FF8384](https://github.com/eci-ue/style/doc/image/error-500.png)
+progress | #FAAD14 | ![#FAAD14](https://github.com/eci-ue/style/doc/image/progress.png)
+progress-200 | #FFF9EC | ![#FFF9EC](https://github.com/eci-ue/style/doc/image/progress-200.png)
+progress-500 | #FFBE3D | ![#FFBE3D](https://github.com/eci-ue/style/doc/image/progress-500.png)
+pending | #FAAD14 | ![#FAAD14](https://github.com/eci-ue/style/doc/image/pending.png)
+pending-200 | #FFF9EC | ![#FFF9EC](https://github.com/eci-ue/style/doc/image/pending-200.png)
+pending-500 | #FFBE3D | ![#FFBE3D](https://github.com/eci-ue/style/doc/image/pending-500.png)
